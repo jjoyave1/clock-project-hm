@@ -2,13 +2,11 @@
   margin-left: auto;
   margin-right: auto;
   height: 500px;
-  width: 750px;
-}
+  width: 750px; }
 
 .currentTime {
   border-bottom: 1px solid #CCFF15;
-  padding-bottom: 60px;
-}
+  padding-bottom: 60px; }
 
 #baseColor {
   font-family: 'Shadows Into Light', cursive;
@@ -16,8 +14,7 @@
   font-size: 4em;
   display: block;
   text-align: center;
-  padding-top: 100px
-}
+  padding-top: 100px; }
 
 #hexColor {
   font-family: 'Playball', sans-serif;
@@ -25,5 +22,4 @@
   text-align: center;
   color: white;
   font-size: 2em;
-  padding-top: 100px;
-}
+  padding-top: 100px; }
